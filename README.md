@@ -75,7 +75,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Tableau/Tableau dashboard.png)
+![Dashboard Preview](Tableau/Tableau%20dashboard.png)
 
 ## 📌 Key Insights
 
